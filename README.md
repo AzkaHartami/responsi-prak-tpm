@@ -1,16 +1,15 @@
-# responsi
+# responsi praktikum TPM
 
-A new Flutter project.
+## nama : muhammad azka hartami
+## nim  : 123200051
 
-## Getting Started
+to run program :
+1. open terminal
+2. flutter pub get
+3. flutter run
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/AzkaHartami/responsi-prak-tpm/assets/100275327/91f3b799-d8b2-4276-a0b4-77cc3c50edee)
+![image](https://github.com/AzkaHartami/responsi-prak-tpm/assets/100275327/3a1fa3fb-182b-48af-922b-ced838361664)
+![image](https://github.com/AzkaHartami/responsi-prak-tpm/assets/100275327/014c4580-b3aa-4e39-a491-6736c72c1be4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
